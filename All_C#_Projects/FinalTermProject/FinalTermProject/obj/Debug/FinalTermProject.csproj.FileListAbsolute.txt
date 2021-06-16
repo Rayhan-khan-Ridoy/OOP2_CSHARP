@@ -1,0 +1,13 @@
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe.config
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.pdb
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csprojAssemblyReference.cache
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.Properties.Resources.resources
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.GenerateResource.cache
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.exe
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.pdb
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.login.resources
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.Splash.resources
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.items.resources
+C:\Users\GHJ\source\repos\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.customers.resources
